@@ -5,8 +5,9 @@
     "version": "0.2.0",
     "configurations": [
         
+
         {
-            "type": "chrome",
+            "type": "msedge",
             "request": "launch",
             "name": "Open index.html",
             "file": "c:\\Users\\jeens\\Documents\\Gitclass\\index.html"
